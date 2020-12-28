@@ -1,3 +1,5 @@
+TEMPLATE=lib
+
 CXX_MODULE = declarative
 TARGET  = qmlfolderlistmodelplugin
 TARGETPATH = Qt/labs/folderlistmodel
